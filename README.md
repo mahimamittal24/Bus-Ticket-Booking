@@ -1,7 +1,7 @@
 # Bus-Ticket-Booking
 It is a web application for booking bus tickets.
 
-# Bus-Ticket-Booking
+# Screenshots
 ![Screenshot (11)](https://user-images.githubusercontent.com/39530668/119975573-a8724d80-bfd3-11eb-98e9-fe3d2d25b15b.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/39530668/119975579-a9a37a80-bfd3-11eb-9f2c-aa742ab9b5e6.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/39530668/119975582-aad4a780-bfd3-11eb-9f95-4f7796f64e75.png)
