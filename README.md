@@ -1,5 +1,5 @@
 # Bus-Ticket-Booking
-It is a web application for booking bus tickets.
+It is a web application for booking bus tickets using Flask.
 
 # Screenshots
 ![Screenshot (11)](https://user-images.githubusercontent.com/39530668/119975573-a8724d80-bfd3-11eb-98e9-fe3d2d25b15b.png)
